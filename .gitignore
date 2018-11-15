@@ -1,0 +1,24 @@
+# py
+*.pyc
+*~
+*.egg-info
+# editor
+*.sw[opnlm]
+
+.DS_Store
+.coverage
+.cache
+
+# in dev
+/venv
+/tmp
+/.env
+/.env.compose
+/.vagrant
+/.profile
+.python-version
+
+
+# IDE
+.idea
+.vscode
